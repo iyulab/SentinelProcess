@@ -9,7 +9,7 @@
 	  <Version>1.0.2</Version>
 	  <Authors>iyulab</Authors>
 	  <Company>iyulab</Company>
-	  <Description>[DEPRECATED] This package is no longer maintained. Please use ChildProcessGuard instead: https://github.com/iyulab/ChildProcessGuard | A robust .NET library for managing and monitoring process lifecycles with parent-child process monitoring, graceful shutdown handling, and platform-optimized process management.</Description>
+	  <Description>[DEPRECATED] This package is no longer maintained. Please use ChildProcessGuard instead: https://github.com/iyulab/ChildProcessGuard</Description>
 	  <PackageTags>process;monitoring;lifecycle;parent-child;shutdown;deprecated;archived</PackageTags>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
 	  <PackageProjectUrl>https://github.com/iyulab-rnd/SentinelProcess</PackageProjectUrl>
