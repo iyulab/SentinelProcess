@@ -1,3 +1,11 @@
+# ⚠️ ARCHIVED - This project has moved
+
+**This repository is archived and no longer maintained.**
+
+Please visit the new repository: **[ChildProcessGuard](https://github.com/iyulab/ChildProcessGuard)**
+
+---
+
 # SentinelProcess
 
 SentinelProcess is a robust .NET library for managing and monitoring process lifecycles. It provides comprehensive features for parent-child process monitoring, graceful shutdown handling, and platform-optimized process management.
